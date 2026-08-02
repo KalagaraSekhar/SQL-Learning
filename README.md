@@ -1,12 +1,19 @@
+# SQL Learning Journey 🚀
+
 <div align="center">
 
-| 📚 Course | 💻 Language | 🗄️ Database | 🎯 Purpose | 📈 Progress |
-|-----------|------------|-------------|------------|------------|
-| PrepInsta SQL | SQL | MySQL & SQLite | Placement Preparation | 2 / 11 Modules |
+![SQL](https://img.shields.io/badge/Language-SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/Database-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Platform](https://img.shields.io/badge/Learning-PrepInsta-00C853?style=for-the-badge&logo=googleclassroom&logoColor=white)
+
+![Status](https://img.shields.io/badge/Status-In%20Progress-success?style=for-the-badge)
+![Modules](https://img.shields.io/badge/Completed-2%2F11-blue?style=for-the-badge)
+![Repository](https://img.shields.io/badge/Repository-SQL%20Roadmap-orange?style=for-the-badge)
 
 </div>
 
-# SQL Learning Journey 🚀
+---
 
 > A comprehensive repository documenting my SQL and Database Management System learning journey through structured theory, hands-on query practice, and real-world database concepts.
 
