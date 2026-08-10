@@ -8,7 +8,7 @@
 ![Platform](https://img.shields.io/badge/Learning-PrepInsta-00C853?style=for-the-badge&logo=googleclassroom&logoColor=white)
 
 ![Status](https://img.shields.io/badge/Status-In%20Progress-success?style=for-the-badge)
-![Modules](https://img.shields.io/badge/Completed-2%2F11-blue?style=for-the-badge)
+![Modules](https://img.shields.io/badge/Completed-3%2F11-blue?style=for-the-badge)
 ![Repository](https://img.shields.io/badge/Repository-SQL%20Roadmap-orange?style=for-the-badge)
 
 </div>
@@ -45,7 +45,7 @@ The primary objective is to build strong SQL fundamentals, understand relational
 |---------|--------|
 | ✅ Relational Database Model | Completed |
 | ✅ SQL Part 1 | Completed |
-| ⏳ SQL Part 2 | In Progress |
+| ✅SQL Part 2 | Completed |
 | ⏳ SQL Part 3 | Pending |
 | ⏳ SQL Part 4 | Pending |
 | ⏳ MySQL Introduction | Pending |
@@ -103,6 +103,47 @@ The primary objective is to build strong SQL fundamentals, understand relational
 
 ---
 
+---
+
+## SQL Querying & Data Retrieval
+SELECT Statement
+DISTINCT
+ORDER BY
+LIMIT
+MIN()
+MAX()
+Filtering and Sorting Data
+
+## Data Modification
+UPDATE Statement
+DELETE Statement
+Modifying Existing Records
+Removing Records from Tables
+
+## Aggregate Functions
+COUNT()
+SUM()
+AVG()
+MIN()
+MAX()
+Aggregate Data Analysis
+
+## Salary-Based Queries
+Highest Salary
+Lowest Salary
+Nth Highest Salary
+Nth Lowest Salary
+Salary-Based Query Problems
+
+## Pattern Matching
+LIKE Operator
+Wildcard %
+Wildcard _
+Pattern-Based Searching
+
+
+
+
 ## Upcoming Topics
 
 - SELECT Queries
@@ -125,6 +166,7 @@ The primary objective is to build strong SQL fundamentals, understand relational
 - SQLite Fundamentals
 
 ---
+
 
 # 💻 Repository Structure
 
