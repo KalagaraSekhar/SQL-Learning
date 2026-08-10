@@ -220,12 +220,8 @@ SQL-PrepInsta-Learning
 # 📈 Progress
 
 ```
-Overall Progress
-
-████████░░░░░░░░░░░░ 18%
-
 Modules Completed
-2 / 11
+3 / 11
 ```
 
 ---
