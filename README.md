@@ -8,7 +8,7 @@
 ![Platform](https://img.shields.io/badge/Learning-PrepInsta-00C853?style=for-the-badge&logo=googleclassroom&logoColor=white)
 
 ![Status](https://img.shields.io/badge/Status-In%20Progress-success?style=for-the-badge)
-![Modules](https://img.shields.io/badge/Completed-3%2F11-blue?style=for-the-badge)
+![Modules](https://img.shields.io/badge/Completed-5%2F11-blue?style=for-the-badge)
 ![Repository](https://img.shields.io/badge/Repository-SQL%20Roadmap-orange?style=for-the-badge)
 
 </div>
@@ -46,8 +46,8 @@ The primary objective is to build strong SQL fundamentals, understand relational
 | ✅ Relational Database Model | Completed |
 | ✅ SQL Part 1 | Completed |
 | ✅SQL Part 2 | Completed |
-| ⏳ SQL Part 3 | Pending |
-| ⏳ SQL Part 4 | Pending |
+| ✅SQL Part 3 | Completed |
+| ✅ SQL Part 4 | Completed |
 | ⏳ MySQL Introduction | Pending |
 | ⏳ MySQL Basics | Pending |
 | ⏳ MySQL Advanced Queries | Pending |
@@ -221,7 +221,7 @@ SQL-PrepInsta-Learning
 
 ```
 Modules Completed
-3 / 11
+5 / 11
 ```
 
 ---
