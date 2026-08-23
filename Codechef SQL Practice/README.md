@@ -63,7 +63,7 @@ Focuses on essential SQL commands and fundamental query operations.
 
 **Focus:** Aggregations & `GROUP BY`
 
-**Status:** 🔄 In Progress
+**Status:** ✅ Completed
 
 This section focuses on applying aggregate functions and grouping techniques to database-related problems.
 
@@ -110,7 +110,7 @@ This section focuses on applying aggregate functions and grouping techniques to 
 
 **Focus:** SQL Joins
 
-**Status:** 🔄 In Progress
+**Status:** ✅ Completed
 
 This section focuses on combining data from multiple tables using different SQL join techniques.
 
@@ -240,9 +240,9 @@ This section focuses on conditional logic and classification of data using SQL `
 
 | Module | Topic                        | Status         |
 | ------ | ---------------------------- | -------------- |
-| 01     | Basic Commands               | ✅ Completed    |
-| 02     | CodeChef Database            | 🔄 In Progress |
-| 03     | ABC Cab Booking App          | 🔄 In Progress |
+| 01     | Basic Commands               | ✅ Completed   |
+| 02     | CodeChef Database            | ✅ Completed |
+| 03     | ABC Cab Booking App          | ✅ Completed |
 | 04     | Happy Haven House Rental App | 🔄 In Progress |
 | 05     | Library Management System    | 🔄 In Progress |
 
@@ -356,7 +356,7 @@ This section is part of my broader **SQL and Database learning journey**. It com
 This README will be updated as I complete additional CodeChef SQL problems and modules.
 
 **Current Focus:** CodeChef SQL Practice
-**Completed Modules:** 1 / 5
+**Completed Modules:** 3 / 5
 **Next Focus:** Aggregations, `GROUP BY`, and analytical SQL queries
 
 ---
